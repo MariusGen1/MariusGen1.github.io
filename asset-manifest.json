@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a8ee9f9.css",
+    "main.js": "/static/js/main.02316642.js",
+    "static/js/787.adaf6f45.chunk.js": "/static/js/787.adaf6f45.chunk.js",
+    "static/media/Fly Away - App icon.png": "/static/media/Fly Away - App icon.6c74ccbe0742e2953cc2.png",
+    "static/media/Fly Away - Mockup 1.png": "/static/media/Fly Away - Mockup 1.fb2e95a4d6dede0fd442.png",
+    "static/media/Fly Away - Mockup 2.png": "/static/media/Fly Away - Mockup 2.da506f43c03a72a12dac.png",
+    "static/media/Super Indie Run - Mockup 2.png": "/static/media/Super Indie Run - Mockup 2.69fa85798680f7d37e7d.png",
+    "static/media/Color Match - App icon.png": "/static/media/Color Match - App icon.9f791a28d2a57c9465aa.png",
+    "static/media/Super Indie Run - Mockup 1.png": "/static/media/Super Indie Run - Mockup 1.05f272700b0e5ab7a09b.png",
+    "static/media/Aqua - Mockup 1.png": "/static/media/Aqua - Mockup 1.215a340c0431bfbd1a8d.png",
+    "static/media/Super Indie Run - App icon.png": "/static/media/Super Indie Run - App icon.c90fa293f0c0becbb21b.png",
+    "static/media/Super Indie Run - Mockup 3.png": "/static/media/Super Indie Run - Mockup 3.452382e21a965e11bfc8.png",
+    "static/media/Climate Challenges - Mockup 1.png": "/static/media/Climate Challenges - Mockup 1.54a8010968667ef942d4.png",
+    "static/media/Aqua - Mockup 3.png": "/static/media/Aqua - Mockup 3.332b2465b95825b6ae81.png",
+    "static/media/Aqua - Mockup 2.png": "/static/media/Aqua - Mockup 2.8af8bd89c397704bbe48.png",
+    "static/media/Aqua - Mockup 5.png": "/static/media/Aqua - Mockup 5.529b0204ff8581ee46f4.png",
+    "static/media/Aqua - App icon.png": "/static/media/Aqua - App icon.0b3457976c03e5ef2313.png",
+    "static/media/Climate Challenges - Mockup 2.png": "/static/media/Climate Challenges - Mockup 2.58a5b1e2a5b90cd24f12.png",
+    "static/media/Climate Challenges - Mockup 3.png": "/static/media/Climate Challenges - Mockup 3.bf8addcc2f2d1a0cd8dc.png",
+    "static/media/Aqua - Mockup 4.png": "/static/media/Aqua - Mockup 4.27be5af77e033d53b1a0.png",
+    "static/media/Color Match - Mockup 2.png": "/static/media/Color Match - Mockup 2.0a2893fb000b31892c37.png",
+    "static/media/Color Match - Mockup 1.png": "/static/media/Color Match - Mockup 1.2fa299183c15d4f34fda.png",
+    "static/media/Color Match - Mockup 3.png": "/static/media/Color Match - Mockup 3.f9ab930ec1a58f419a61.png",
+    "static/media/Climate Challenges - App icon.png": "/static/media/Climate Challenges - App icon.83752f2fd6a0d9bfebde.png",
+    "static/media/UCLA.png": "/static/media/UCLA.fe8126fa5341ad8c7605.png",
+    "static/media/LFO.jpg": "/static/media/LFO.50428316735257b2d0d4.jpg",
+    "static/media/Background.svg": "/static/media/Background.d4945171aeba04a7d65b.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.7a8ee9f9.css.map": "/static/css/main.7a8ee9f9.css.map",
+    "main.02316642.js.map": "/static/js/main.02316642.js.map",
+    "787.adaf6f45.chunk.js.map": "/static/js/787.adaf6f45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a8ee9f9.css",
+    "static/js/main.02316642.js"
+  ]
+}
