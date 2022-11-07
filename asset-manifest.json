@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7a8ee9f9.css",
-    "main.js": "/static/js/main.02316642.js",
+    "main.css": "/static/css/main.b7292a56.css",
+    "main.js": "/static/js/main.f4d7bf55.js",
     "static/js/787.adaf6f45.chunk.js": "/static/js/787.adaf6f45.chunk.js",
     "static/media/Fly Away - App icon.png": "/static/media/Fly Away - App icon.6c74ccbe0742e2953cc2.png",
     "static/media/Fly Away - Mockup 1.png": "/static/media/Fly Away - Mockup 1.fb2e95a4d6dede0fd442.png",
@@ -19,25 +19,30 @@
     "static/media/Aqua - App icon.png": "/static/media/Aqua - App icon.0b3457976c03e5ef2313.png",
     "static/media/Climate Challenges - Mockup 2.png": "/static/media/Climate Challenges - Mockup 2.58a5b1e2a5b90cd24f12.png",
     "static/media/Climate Challenges - Mockup 3.png": "/static/media/Climate Challenges - Mockup 3.bf8addcc2f2d1a0cd8dc.png",
+    "static/media/EZCalc - App icon.png": "/static/media/EZCalc - App icon.16684b4384db1e4496b7.png",
     "static/media/Aqua - Mockup 4.png": "/static/media/Aqua - Mockup 4.27be5af77e033d53b1a0.png",
     "static/media/Color Match - Mockup 2.png": "/static/media/Color Match - Mockup 2.0a2893fb000b31892c37.png",
     "static/media/Color Match - Mockup 1.png": "/static/media/Color Match - Mockup 1.2fa299183c15d4f34fda.png",
     "static/media/Color Match - Mockup 3.png": "/static/media/Color Match - Mockup 3.f9ab930ec1a58f419a61.png",
     "static/media/Climate Challenges - App icon.png": "/static/media/Climate Challenges - App icon.83752f2fd6a0d9bfebde.png",
-    "static/media/UCLA.png": "/static/media/UCLA.fe8126fa5341ad8c7605.png",
-    "static/media/LFO.jpg": "/static/media/LFO.50428316735257b2d0d4.jpg",
+    "static/media/SP.png": "/static/media/SP.a779daeb3aea255117da.png",
+    "static/media/LFO.png": "/static/media/LFO.e7ca07c7f1f4c64bc0c8.png",
+    "static/media/US.png": "/static/media/US.602f9bacf168c3621a7d.png",
+    "static/media/UCLA.png": "/static/media/UCLA.2f49dcbac4e0ef911432.png",
+    "static/media/NO.png": "/static/media/NO.aa6763ad36e6f3010ee0.png",
+    "static/media/FR.png": "/static/media/FR.0822c67d061fa38b693a.png",
     "static/media/Background.svg": "/static/media/Background.d4945171aeba04a7d65b.svg",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.7a8ee9f9.css.map": "/static/css/main.7a8ee9f9.css.map",
-    "main.02316642.js.map": "/static/js/main.02316642.js.map",
+    "main.b7292a56.css.map": "/static/css/main.b7292a56.css.map",
+    "main.f4d7bf55.js.map": "/static/js/main.f4d7bf55.js.map",
     "787.adaf6f45.chunk.js.map": "/static/js/787.adaf6f45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a8ee9f9.css",
-    "static/js/main.02316642.js"
+    "static/css/main.b7292a56.css",
+    "static/js/main.f4d7bf55.js"
   ]
 }
