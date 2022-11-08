@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d943e34e.css",
-    "main.js": "/static/js/main.515999e0.js",
+    "main.css": "/static/css/main.65b73029.css",
+    "main.js": "/static/js/main.08a4025c.js",
     "static/js/787.adaf6f45.chunk.js": "/static/js/787.adaf6f45.chunk.js",
     "static/media/Magic Clipboard - App icon.png": "/static/media/Magic Clipboard - App icon.1a86fd7f5882f75747a1.png",
     "static/media/Fly Away - App icon.png": "/static/media/Fly Away - App icon.6c74ccbe0742e2953cc2.png",
@@ -13,6 +13,7 @@
     "static/media/Super Indie Run - Mockup 1.png": "/static/media/Super Indie Run - Mockup 1.05f272700b0e5ab7a09b.png",
     "static/media/Aqua - Mockup 1.png": "/static/media/Aqua - Mockup 1.215a340c0431bfbd1a8d.png",
     "static/media/Super Indie Run - App icon.png": "/static/media/Super Indie Run - App icon.c90fa293f0c0becbb21b.png",
+    "static/media/OI Treningsdagbok - Mockup 2.png": "/static/media/OI Treningsdagbok - Mockup 2.0053740aac2ea308fe11.png",
     "static/media/Super Indie Run - Mockup 3.png": "/static/media/Super Indie Run - Mockup 3.452382e21a965e11bfc8.png",
     "static/media/Bruin Dining - Mockup 1.png": "/static/media/Bruin Dining - Mockup 1.dfca90900970e8f746fb.png",
     "static/media/Climate Challenges - Mockup 1.png": "/static/media/Climate Challenges - Mockup 1.54a8010968667ef942d4.png",
@@ -24,6 +25,7 @@
     "static/media/Aqua - App icon.png": "/static/media/Aqua - App icon.0b3457976c03e5ef2313.png",
     "static/media/Climate Challenges - Mockup 2.png": "/static/media/Climate Challenges - Mockup 2.58a5b1e2a5b90cd24f12.png",
     "static/media/Climate Challenges - Mockup 3.png": "/static/media/Climate Challenges - Mockup 3.bf8addcc2f2d1a0cd8dc.png",
+    "static/media/OI Treningsdagbok - Mockup 3.png": "/static/media/OI Treningsdagbok - Mockup 3.4e43c2da95d2191a4d8f.png",
     "static/media/EZCalc - App icon.png": "/static/media/EZCalc - App icon.16684b4384db1e4496b7.png",
     "static/media/Aqua - Mockup 4.png": "/static/media/Aqua - Mockup 4.27be5af77e033d53b1a0.png",
     "static/media/Color Match - Mockup 2.png": "/static/media/Color Match - Mockup 2.0a2893fb000b31892c37.png",
@@ -43,12 +45,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.d943e34e.css.map": "/static/css/main.d943e34e.css.map",
-    "main.515999e0.js.map": "/static/js/main.515999e0.js.map",
+    "main.65b73029.css.map": "/static/css/main.65b73029.css.map",
+    "main.08a4025c.js.map": "/static/js/main.08a4025c.js.map",
     "787.adaf6f45.chunk.js.map": "/static/js/787.adaf6f45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d943e34e.css",
-    "static/js/main.515999e0.js"
+    "static/css/main.65b73029.css",
+    "static/js/main.08a4025c.js"
   ]
 }
