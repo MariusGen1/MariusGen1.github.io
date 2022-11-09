@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6488cad.css",
-    "main.js": "/static/js/main.8a8c09bc.js",
+    "main.css": "/static/css/main.09ea3ae0.css",
+    "main.js": "/static/js/main.cf830f02.js",
     "static/js/787.adaf6f45.chunk.js": "/static/js/787.adaf6f45.chunk.js",
     "static/media/Magic Clipboard - App icon.png": "/static/media/Magic Clipboard - App icon.1a86fd7f5882f75747a1.png",
     "static/media/Fly Away - App icon.png": "/static/media/Fly Away - App icon.6c74ccbe0742e2953cc2.png",
@@ -39,18 +39,17 @@
     "static/media/UCLA.png": "/static/media/UCLA.2f49dcbac4e0ef911432.png",
     "static/media/NO.png": "/static/media/NO.aa6763ad36e6f3010ee0.png",
     "static/media/FR.png": "/static/media/FR.0822c67d061fa38b693a.png",
-    "static/media/Background.svg": "/static/media/Background.d4945171aeba04a7d65b.svg",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.e6488cad.css.map": "/static/css/main.e6488cad.css.map",
-    "main.8a8c09bc.js.map": "/static/js/main.8a8c09bc.js.map",
+    "main.09ea3ae0.css.map": "/static/css/main.09ea3ae0.css.map",
+    "main.cf830f02.js.map": "/static/js/main.cf830f02.js.map",
     "787.adaf6f45.chunk.js.map": "/static/js/787.adaf6f45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6488cad.css",
-    "static/js/main.8a8c09bc.js"
+    "static/css/main.09ea3ae0.css",
+    "static/js/main.cf830f02.js"
   ]
 }
