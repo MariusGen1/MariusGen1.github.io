@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b554378.css",
-    "main.js": "/static/js/main.626d5036.js",
+    "main.css": "/static/css/main.b52fbfd4.css",
+    "main.js": "/static/js/main.6235dd19.js",
     "static/js/787.adaf6f45.chunk.js": "/static/js/787.adaf6f45.chunk.js",
     "static/media/profilePicture.png": "/static/media/profilePicture.1e9615c71592d24f8133.png",
     "static/media/Fly Away - Mockup 1.png": "/static/media/Fly Away - Mockup 1.e42dbd07333c41fb2747.png",
@@ -36,6 +36,7 @@
     "static/media/Color Match - App icon.png": "/static/media/Color Match - App icon.b9f7d13887d6e487620d.png",
     "static/media/Magic Clipboard - App icon.png": "/static/media/Magic Clipboard - App icon.7caa61be197597036614.png",
     "static/media/Bruin Dining - App icon.png": "/static/media/Bruin Dining - App icon.37d8c9bd45c2eb67c4a1.png",
+    "static/media/Duolingo.png": "/static/media/Duolingo.6d878c5126e30c350e67.png",
     "static/media/Aqua - App icon.png": "/static/media/Aqua - App icon.4b2e56a771008507616d.png",
     "static/media/FR.png": "/static/media/FR.dffe9a2edf1120e63b82.png",
     "static/media/NO.png": "/static/media/NO.5e1a083aa687789dbf94.png",
@@ -47,12 +48,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.8b554378.css.map": "/static/css/main.8b554378.css.map",
-    "main.626d5036.js.map": "/static/js/main.626d5036.js.map",
+    "main.b52fbfd4.css.map": "/static/css/main.b52fbfd4.css.map",
+    "main.6235dd19.js.map": "/static/js/main.6235dd19.js.map",
     "787.adaf6f45.chunk.js.map": "/static/js/787.adaf6f45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b554378.css",
-    "static/js/main.626d5036.js"
+    "static/css/main.b52fbfd4.css",
+    "static/js/main.6235dd19.js"
   ]
 }
