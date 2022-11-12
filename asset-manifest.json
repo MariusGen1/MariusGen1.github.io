@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b52fbfd4.css",
-    "main.js": "/static/js/main.6235dd19.js",
+    "main.css": "/static/css/main.278f76ab.css",
+    "main.js": "/static/js/main.9e4bb836.js",
     "static/js/787.adaf6f45.chunk.js": "/static/js/787.adaf6f45.chunk.js",
     "static/media/profilePicture.png": "/static/media/profilePicture.1e9615c71592d24f8133.png",
     "static/media/Fly Away - Mockup 1.png": "/static/media/Fly Away - Mockup 1.e42dbd07333c41fb2747.png",
@@ -48,12 +48,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.b52fbfd4.css.map": "/static/css/main.b52fbfd4.css.map",
-    "main.6235dd19.js.map": "/static/js/main.6235dd19.js.map",
+    "main.278f76ab.css.map": "/static/css/main.278f76ab.css.map",
+    "main.9e4bb836.js.map": "/static/js/main.9e4bb836.js.map",
     "787.adaf6f45.chunk.js.map": "/static/js/787.adaf6f45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b52fbfd4.css",
-    "static/js/main.6235dd19.js"
+    "static/css/main.278f76ab.css",
+    "static/js/main.9e4bb836.js"
   ]
 }
