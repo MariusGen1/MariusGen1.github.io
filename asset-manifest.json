@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.871de341.css",
-    "main.js": "/static/js/main.6b2fa388.js",
+    "main.js": "/static/js/main.c4546347.js",
     "static/js/787.adaf6f45.chunk.js": "/static/js/787.adaf6f45.chunk.js",
-    "static/media/profilePicture.png": "/static/media/profilePicture.1e9615c71592d24f8133.png",
+    "static/media/profilePicture.png": "/static/media/profilePicture.191c217466db0a8424ef.png",
     "static/media/Fly Away - Mockup 1.png": "/static/media/Fly Away - Mockup 1.e42dbd07333c41fb2747.png",
     "static/media/Fly Away - Mockup 2.png": "/static/media/Fly Away - Mockup 2.f84488bda6c878a4755c.png",
     "static/media/Super Indie Run  - Mockup 2.png": "/static/media/Super Indie Run  - Mockup 2.17e08552ec0c7f61345e.png",
@@ -47,11 +47,11 @@
     "static/media/no.svg": "/static/media/no.b9cc4fcdf51eb234607e1ffa96e3ff63.svg",
     "static/media/fr.svg": "/static/media/fr.b377e77885d6a93660dcaf59f68ab2af.svg",
     "main.871de341.css.map": "/static/css/main.871de341.css.map",
-    "main.6b2fa388.js.map": "/static/js/main.6b2fa388.js.map",
+    "main.c4546347.js.map": "/static/js/main.c4546347.js.map",
     "787.adaf6f45.chunk.js.map": "/static/js/787.adaf6f45.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.871de341.css",
-    "static/js/main.6b2fa388.js"
+    "static/js/main.c4546347.js"
   ]
 }
