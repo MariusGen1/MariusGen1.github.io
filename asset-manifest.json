@@ -1,7 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.871de341.css",
-    "main.js": "/static/js/main.c4546347.js",
+    "main.css": "/static/css/main.735cbfe6.css",
+    "main.js": "/static/js/main.1dc78078.js",
+    "static/js/18.b02eda07.chunk.js": "/static/js/18.b02eda07.chunk.js",
+    "static/js/673.6d925169.chunk.js": "/static/js/673.6d925169.chunk.js",
+    "static/js/28.530dd37b.chunk.js": "/static/js/28.530dd37b.chunk.js",
+    "static/js/700.11d7e044.chunk.js": "/static/js/700.11d7e044.chunk.js",
+    "static/js/206.40ce9ef6.chunk.js": "/static/js/206.40ce9ef6.chunk.js",
+    "static/js/232.6aff77a8.chunk.js": "/static/js/232.6aff77a8.chunk.js",
+    "static/js/45.60d2d781.chunk.js": "/static/js/45.60d2d781.chunk.js",
+    "static/js/669.762cd489.chunk.js": "/static/js/669.762cd489.chunk.js",
+    "static/js/622.e091e475.chunk.js": "/static/js/622.e091e475.chunk.js",
+    "static/js/537.127146e8.chunk.js": "/static/js/537.127146e8.chunk.js",
+    "static/js/729.3bb00db4.chunk.js": "/static/js/729.3bb00db4.chunk.js",
     "static/js/787.adaf6f45.chunk.js": "/static/js/787.adaf6f45.chunk.js",
     "static/media/profilePicture.png": "/static/media/profilePicture.191c217466db0a8424ef.png",
     "static/media/Fly Away - Mockup 1.png": "/static/media/Fly Away - Mockup 1.e42dbd07333c41fb2747.png",
@@ -46,12 +57,12 @@
     "index.html": "/index.html",
     "static/media/no.svg": "/static/media/no.b9cc4fcdf51eb234607e1ffa96e3ff63.svg",
     "static/media/fr.svg": "/static/media/fr.b377e77885d6a93660dcaf59f68ab2af.svg",
-    "main.871de341.css.map": "/static/css/main.871de341.css.map",
-    "main.c4546347.js.map": "/static/js/main.c4546347.js.map",
+    "main.735cbfe6.css.map": "/static/css/main.735cbfe6.css.map",
+    "main.1dc78078.js.map": "/static/js/main.1dc78078.js.map",
     "787.adaf6f45.chunk.js.map": "/static/js/787.adaf6f45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.871de341.css",
-    "static/js/main.c4546347.js"
+    "static/css/main.735cbfe6.css",
+    "static/js/main.1dc78078.js"
   ]
 }
