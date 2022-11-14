@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.735cbfe6.css",
-    "main.js": "/static/js/main.1dc78078.js",
+    "main.css": "/static/css/main.7bfb651a.css",
+    "main.js": "/static/js/main.e6bd0ea1.js",
     "static/js/18.b02eda07.chunk.js": "/static/js/18.b02eda07.chunk.js",
     "static/js/673.6d925169.chunk.js": "/static/js/673.6d925169.chunk.js",
     "static/js/28.530dd37b.chunk.js": "/static/js/28.530dd37b.chunk.js",
@@ -14,7 +14,6 @@
     "static/js/537.127146e8.chunk.js": "/static/js/537.127146e8.chunk.js",
     "static/js/729.3bb00db4.chunk.js": "/static/js/729.3bb00db4.chunk.js",
     "static/js/787.adaf6f45.chunk.js": "/static/js/787.adaf6f45.chunk.js",
-    "static/media/profilePicture.png": "/static/media/profilePicture.191c217466db0a8424ef.png",
     "static/media/Fly Away - Mockup 1.png": "/static/media/Fly Away - Mockup 1.e42dbd07333c41fb2747.png",
     "static/media/Fly Away - Mockup 2.png": "/static/media/Fly Away - Mockup 2.f84488bda6c878a4755c.png",
     "static/media/Super Indie Run  - Mockup 2.png": "/static/media/Super Indie Run  - Mockup 2.17e08552ec0c7f61345e.png",
@@ -40,6 +39,7 @@
     "static/media/Climate Challenges - Mockup 2.png": "/static/media/Climate Challenges - Mockup 2.c70818169cd88c35d9fe.png",
     "static/media/Climate Challenges - Mockup 3.png": "/static/media/Climate Challenges - Mockup 3.668dc9b5f80a5cad86a2.png",
     "static/media/es.svg": "/static/media/es.786adca69a2e53c3248d434cfe79e10c.svg",
+    "static/media/profilePicture.jpg": "/static/media/profilePicture.90c8c250b0a5a7757e4a.jpg",
     "static/media/Fly Away - App icon.png": "/static/media/Fly Away - App icon.c2ebf0039299fe581e31.png",
     "static/media/Color Match - App icon.png": "/static/media/Color Match - App icon.b9f7d13887d6e487620d.png",
     "static/media/Magic Clipboard - App icon.png": "/static/media/Magic Clipboard - App icon.7caa61be197597036614.png",
@@ -57,12 +57,12 @@
     "index.html": "/index.html",
     "static/media/no.svg": "/static/media/no.b9cc4fcdf51eb234607e1ffa96e3ff63.svg",
     "static/media/fr.svg": "/static/media/fr.b377e77885d6a93660dcaf59f68ab2af.svg",
-    "main.735cbfe6.css.map": "/static/css/main.735cbfe6.css.map",
-    "main.1dc78078.js.map": "/static/js/main.1dc78078.js.map",
+    "main.7bfb651a.css.map": "/static/css/main.7bfb651a.css.map",
+    "main.e6bd0ea1.js.map": "/static/js/main.e6bd0ea1.js.map",
     "787.adaf6f45.chunk.js.map": "/static/js/787.adaf6f45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.735cbfe6.css",
-    "static/js/main.1dc78078.js"
+    "static/css/main.7bfb651a.css",
+    "static/js/main.e6bd0ea1.js"
   ]
 }
