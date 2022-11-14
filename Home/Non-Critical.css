@@ -1,0 +1,242 @@
+/* Google Icon */
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 1,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48
+  }
+  
+  
+  h2 {
+    font-size: 38px;
+  }
+  
+  h3 {
+    font-size: 23px;
+  }
+  
+  h4 {
+    font-size: 19px;
+  }
+  
+  p {
+    font-size: 19px;
+  }
+  
+  a {
+    text-decoration: none;
+    transition: all 0.1s;
+  }
+
+.Section {
+    display: flex; 
+    flex-direction: column; 
+    width: 80vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    padding-bottom: 80px;
+    text-align: left;
+    line-height: 2;
+}
+
+.AboutMeSection p {
+    width: 65%;
+    margin-right: 5%;
+}
+
+.profilePicture {
+    height: 20vw;
+    width: 20vw;
+    border-radius: 10vw;
+    overflow: hidden;
+    object-fit: cover;
+}
+
+.MobileProfilePicture {
+    width: 70vw;
+    height: 70vw;
+    max-height: 300px;
+    max-width: 300px;
+    display: none;
+    border-radius: 35vw;
+    overflow: hidden;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sideBar {
+    position: sticky;
+    top: 110px;
+    width: 20vw;
+    height: 100%;
+}
+
+.sideBar a {
+    color: #2980b9;
+}
+
+.Section h2 {
+    line-height: 1;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    padding-bottom: 20px;
+    margin-left: -10vw;
+    padding-left: 10vw;
+    margin-right: -10vw;
+    z-index: 10;
+}
+
+.Card {
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    flex: 1;
+    padding: 20px 20px 20px 20px;
+    box-sizing: border-box;
+    transition: all 0.5s;
+    overflow: hidden;
+}
+
+.Card p {
+    margin-right: 5%;
+    transition: all 0.3s;
+}
+
+.LearnMore {
+    background-color: #2ecc71;
+    color: white;
+}
+
+.ContactSection {
+    background-color: #34495e;
+    color: white;
+}
+
+.ContactSection h2 {
+    background-color: #34495e;
+}
+
+.CertificationCard {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+}
+
+.CertificationCard img {
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 80%;
+    overflow: hidden;
+    border-radius: 5%;
+}
+
+.CertificationCard span {
+    font-size: 40px;
+    color: black;
+}
+
+.CardGrid {
+    display: grid;
+    gap: 25px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.LanguagesGrid {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.LanguageCardBackground {
+    background-size: 100%;
+    background-position: center;
+    width: calc(100% - 40px);
+    height: calc(100% - 40px);
+    box-shadow: inset 0 0 0 1000px rgba(255,255,255,1);
+    transition: all 0.5s;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.ContactSectionColumns {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  
+  .ContactSectionColumn {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .ContactSectionColumn a {
+    display: table-cell;
+    color: white;
+  }
+
+  
+  .languageContainer {
+    display: flex;
+    width: 100%;
+    max-height: 15vh;
+    align-items: center;
+    text-align: left;
+    margin-top: 25px;
+  }
+  
+
+  @media screen and (min-width: 1001px) {
+    .LanguageCard:hover > .LanguageCardBackground {
+      box-shadow: inset 0 0 0 1000px rgba(255,255,255,0.5);
+    }
+  
+    .LearnMore:hover {
+      scale: 1.05;
+      background-color: #27ae60;
+    }
+  
+    .Card:hover {
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    }
+  
+    a:hover {
+        opacity: 0.5;
+    }
+  }
+
+  @media screen and (max-width: 1000px) {
+    .CardGrid {
+      grid-template-columns: 1fr;
+  }
+  
+  .LanguagesGrid {
+      grid-template-columns: 1fr 1fr;
+  }
+  
+  .sideBar {
+      display: none;
+  }
+  
+  .AboutMeSection p {
+      width: 80vw;
+      margin-right: 0;
+  }
+  
+  .ContactSectionColumns {
+        grid-template-columns: 1fr;
+  }
+  
+  .Letter {
+      scale: 1.7;
+  }
+  
+  .MenuContainer {
+      display: none;
+  }
+  
+  .MobileProfilePicture {
+      display: block;
+  }
+  }
