@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8e9954aa.css",
-    "main.js": "/static/js/main.2f7e3e96.js",
+    "main.css": "/static/css/main.5d987acf.css",
+    "main.js": "/static/js/main.f4de98f0.js",
     "static/js/18.b02eda07.chunk.js": "/static/js/18.b02eda07.chunk.js",
     "static/js/673.6d925169.chunk.js": "/static/js/673.6d925169.chunk.js",
     "static/js/28.530dd37b.chunk.js": "/static/js/28.530dd37b.chunk.js",
@@ -26,19 +26,20 @@
     "static/media/EZCalc.jpg": "/static/media/EZCalc.509ed648586bf89e4b44.jpg",
     "static/media/es.svg": "/static/media/es.786adca69a2e53c3248d434cfe79e10c.svg",
     "static/media/MagicClipboard.jpg": "/static/media/MagicClipboard.b6cc46ff0a090933ad2c.jpg",
-    "static/media/profilePicture.jpg": "/static/media/profilePicture.90c8c250b0a5a7757e4a.jpg",
+    "static/media/profilePicture.jpg": "/static/media/profilePicture.08138295ed2026cb19a0.jpg",
     "static/media/AntiTheft.jpg": "/static/media/AntiTheft.5812ef1130381d221d15.jpg",
     "static/media/Duolingo.png": "/static/media/Duolingo.6d878c5126e30c350e67.png",
+    "static/media/openInNewTab.png": "/static/media/openInNewTab.e60e5d715d99f4fab336.png",
     "static/media/us.svg": "/static/media/us.d8b63826d8d60830324e70ab0b5452f0.svg",
     "index.html": "/index.html",
     "static/media/no.svg": "/static/media/no.b9cc4fcdf51eb234607e1ffa96e3ff63.svg",
     "static/media/fr.svg": "/static/media/fr.b377e77885d6a93660dcaf59f68ab2af.svg",
-    "main.8e9954aa.css.map": "/static/css/main.8e9954aa.css.map",
-    "main.2f7e3e96.js.map": "/static/js/main.2f7e3e96.js.map",
+    "main.5d987acf.css.map": "/static/css/main.5d987acf.css.map",
+    "main.f4de98f0.js.map": "/static/js/main.f4de98f0.js.map",
     "787.adaf6f45.chunk.js.map": "/static/js/787.adaf6f45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e9954aa.css",
-    "static/js/main.2f7e3e96.js"
+    "static/css/main.5d987acf.css",
+    "static/js/main.f4de98f0.js"
   ]
 }

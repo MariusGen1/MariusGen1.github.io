@@ -1,11 +1,3 @@
-/* Google Icon */
-.material-symbols-outlined {
-  font-variation-settings:
-    'FILL' 1,
-    'wght' 400,
-    'GRAD' 0,
-    'opsz' 48
-}
 h2 {
   font-size: 38px;
 } 
@@ -107,67 +99,69 @@ a {
     background-color: #34495e;
 }
 .CertificationCard {
-    display: grid;
-    grid-template-columns: 1fr 5fr;
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  line-height: 1.2;
 }
 .CertificationCard img {
-    margin-top: auto;
-    margin-bottom: auto;
-    width: 80%;
-    overflow: hidden;
-    border-radius: 5%;
-}
-.CertificationCard span {
-    font-size: 40px;
-    color: black;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 80%;
+  overflow: hidden;
+  border-radius: 5%;
 }
 .CardGrid {
-    display: grid;
-    gap: 25px;
-    grid-template-columns: 1fr 1fr;
+  display: grid;
+  gap: 25px;
+  grid-template-columns: 1fr 1fr;
 }
 .LanguagesGrid {
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 .LanguageCardBackground {
-    background-size: 100%;
-    background-position: center;
-    width: calc(100% - 40px);
-    height: calc(100% - 40px);
-    box-shadow: inset 0 0 0 1000px rgba(255,255,255,1);
-    transition: all 0.5s;
+  background-size: 100%;
+  background-position: center;
+  width: calc(100% - 40px);
+  height: calc(100% - 40px);
+  box-shadow: inset 0 0 0 1000px rgba(255,255,255,1);
+  transition: all 0.5s;
 
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-bottom: 20px;
-    padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-top: 20px;
 }
 
 .ContactSectionColumns {
-    width: 100%;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-  }
-  
-  .ContactSectionColumn {
-    display: flex;
-    flex-direction: column;
-  }
-  
-  .ContactSectionColumn a {
-    display: table-cell;
-    color: white;
-  }
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
 
-  
-  .languageContainer {
-    display: flex;
-    width: 100%;
-    max-height: 15vh;
-    align-items: center;
-    text-align: left;
-    margin-top: 25px;
-  }
+.ContactSectionColumn {
+  display: flex;
+  flex-direction: column;
+}
+
+.ContactSectionColumn a {
+  display: table-cell;
+  color: white;
+}
+
+.languageContainer {
+  display: flex;
+  width: 100%;
+  max-height: 15vh;
+  align-items: center;
+  text-align: left;
+  margin-top: 25px;
+}
+
+.SeeCertification {
+  flex: 1;
+  max-width: 40px;
+  margin-left: auto;
+}
   
 
   @media screen and (min-width: 1001px) {
@@ -189,15 +183,15 @@ a {
     }
   }
 
-  @media screen and (max-width: 1000px) {
-    .CardGrid {
-      grid-template-columns: 1fr;
+@media screen and (max-width: 1000px) {
+  .CardGrid {
+    grid-template-columns: 1fr;
   }
-  
+
   .LanguagesGrid {
       grid-template-columns: 1fr 1fr;
   }
-  
+
   .sideBar {
       display: none;
   }
@@ -222,4 +216,4 @@ a {
   .MobileProfilePicture {
       display: block;
   }
-  }
+}
