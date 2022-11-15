@@ -162,6 +162,11 @@ a {
   max-width: 40px;
   margin-left: auto;
 }
+
+.EducationGrid img {
+  width: 12%;
+  float: right;
+}
   
 
   @media screen and (min-width: 1001px) {
