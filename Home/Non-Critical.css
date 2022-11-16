@@ -64,24 +64,30 @@ a {
 }
 
 .Section h2 {
-    line-height: 1;
-    position: sticky;
-    top: 0;
-    background-color: white;
-    padding-bottom: 20px;
-    margin-left: -10vw;
-    padding-left: 10vw;
-    margin-right: -10vw;
-    z-index: 10;
+  line-height: 1;
+  width: auto;
+  display:inline;
+}
+.SectionTitle {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  padding-top: 25px;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+  margin-left: -10vw;
+  padding-left: 10vw;
+  margin-right: -10vw;
+  z-index: 10;
 }
 .Card {
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
-    border-radius: 20px;
-    flex: 1;
-    padding: 20px 20px 20px 20px;
-    box-sizing: border-box;
-    transition: all 0.5s;
-    overflow: hidden;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  flex: 1;
+  padding: 20px 20px 20px 20px;
+  box-sizing: border-box;
+  transition: all 0.2s;
+  overflow: hidden;
 }
 .Card p {
     margin-right: 5%;
@@ -100,15 +106,16 @@ a {
 }
 .CertificationCard {
   display: grid;
-  grid-template-columns: 1fr 5fr 1fr;
+  grid-template-columns: 2fr 10fr 1fr;
   line-height: 1.2;
 }
 .CertificationCard img {
   margin-top: auto;
   margin-bottom: auto;
-  width: 80%;
+  width: 60%;
   overflow: hidden;
   border-radius: 5%;
+  opacity: 0.8;
 }
 .CardGrid {
   display: grid;
@@ -148,15 +155,6 @@ a {
   color: white;
 }
 
-.languageContainer {
-  display: flex;
-  width: 100%;
-  max-height: 15vh;
-  align-items: center;
-  text-align: left;
-  margin-top: 25px;
-}
-
 .SeeCertification {
   flex: 1;
   max-width: 40px;
@@ -184,7 +182,7 @@ a {
     }
   
     a:hover {
-        opacity: 0.5;
+      opacity: 0.5;
     }
   }
 
@@ -194,7 +192,7 @@ a {
   }
 
   .LanguagesGrid {
-      grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
   }
 
   .sideBar {
@@ -202,23 +200,23 @@ a {
   }
   
   .AboutMeSection p {
-      width: 80vw;
-      margin-right: 0;
+    width: 80vw;
+    margin-right: 0;
   }
   
   .ContactSectionColumns {
-        grid-template-columns: 1fr;
+    grid-template-columns: 1fr;
   }
   
   .Letter {
-      scale: 1.7;
+    scale: 1.7;
   }
   
   .MenuContainer {
-      display: none;
+    display: none;
   }
   
   .MobileProfilePicture {
-      display: block;
+    display: block;
   }
 }
