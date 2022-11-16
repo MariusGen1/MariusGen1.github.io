@@ -167,7 +167,7 @@ a {
 }
   
 
-  @media screen and (min-width: 1001px) {
+  @media screen and (min-width: 600px) {
     .LanguageCard:hover > .LanguageCardBackground {
       box-shadow: inset 0 0 0 1000px rgba(255,255,255,0.5);
     }
