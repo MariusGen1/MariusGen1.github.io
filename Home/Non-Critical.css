@@ -32,11 +32,11 @@ a {
 }
 
 .profilePicture {
-    height: 20vw;
-    width: 20vw;
-    border-radius: 10vw;
-    overflow: hidden;
-    object-fit: cover;
+  height: 20vw;
+  width: 20vw;
+  border-radius: 10vw;
+  overflow: hidden;
+  object-fit: cover;
 }
 
 .MobileProfilePicture {
@@ -67,6 +67,7 @@ a {
   line-height: 1;
   width: auto;
   display:inline;
+  font-weight: 800;
 }
 .SectionTitle {
   position: sticky;
