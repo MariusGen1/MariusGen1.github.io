@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.75c7c341.css",
-    "main.js": "/static/js/main.26433ed5.js",
+    "main.js": "/static/js/main.5b7b2dff.js",
     "static/css/779.f97a0667.chunk.css": "/static/css/779.f97a0667.chunk.css",
     "static/js/779.49e0fa5e.chunk.js": "/static/js/779.49e0fa5e.chunk.js",
     "static/js/18.b02eda07.chunk.js": "/static/js/18.b02eda07.chunk.js",
@@ -16,6 +16,7 @@
     "static/js/537.127146e8.chunk.js": "/static/js/537.127146e8.chunk.js",
     "static/js/729.3bb00db4.chunk.js": "/static/js/729.3bb00db4.chunk.js",
     "static/js/787.adaf6f45.chunk.js": "/static/js/787.adaf6f45.chunk.js",
+    "static/media/yeti.jpg": "/static/media/yeti.c29f8a89c251b0cc6522.jpg",
     "static/media/TrainingPeaks.jpg": "/static/media/TrainingPeaks.719f96070d5b7eb6b8b8.jpg",
     "static/media/CryptoBot.jpg": "/static/media/CryptoBot.532d9f8019d710d8e7b7.jpg",
     "static/media/TwitterInvestmentBot.jpg": "/static/media/TwitterInvestmentBot.21f8067e88ae06d132b4.jpg",
@@ -31,8 +32,10 @@
     "static/media/MagicClipboard.jpg": "/static/media/MagicClipboard.b6cc46ff0a090933ad2c.jpg",
     "static/media/profilePicture.jpg": "/static/media/profilePicture.08138295ed2026cb19a0.jpg",
     "static/media/AntiTheft.jpg": "/static/media/AntiTheft.5812ef1130381d221d15.jpg",
+    "static/media/cla.jpg": "/static/media/cla.78087c6e1e0cc3b2964e.jpg",
     "static/media/Duolingo.png": "/static/media/Duolingo.6d878c5126e30c350e67.png",
     "static/media/UCLA.jpg": "/static/media/UCLA.d8887d78d5907c2245aa.jpg",
+    "static/media/chupacabra.jpg": "/static/media/chupacabra.22d6b9a4e39cc42254ab.jpg",
     "static/media/openInNewTab.png": "/static/media/openInNewTab.e60e5d715d99f4fab336.png",
     "static/media/LFO.jpg": "/static/media/LFO.eba3df5411455e7f40a3.jpg",
     "static/media/us.svg": "/static/media/us.d8b63826d8d60830324e70ab0b5452f0.svg",
@@ -40,13 +43,13 @@
     "static/media/no.svg": "/static/media/no.b9cc4fcdf51eb234607e1ffa96e3ff63.svg",
     "static/media/fr.svg": "/static/media/fr.b377e77885d6a93660dcaf59f68ab2af.svg",
     "main.75c7c341.css.map": "/static/css/main.75c7c341.css.map",
-    "main.26433ed5.js.map": "/static/js/main.26433ed5.js.map",
+    "main.5b7b2dff.js.map": "/static/js/main.5b7b2dff.js.map",
     "779.f97a0667.chunk.css.map": "/static/css/779.f97a0667.chunk.css.map",
     "779.49e0fa5e.chunk.js.map": "/static/js/779.49e0fa5e.chunk.js.map",
     "787.adaf6f45.chunk.js.map": "/static/js/787.adaf6f45.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75c7c341.css",
-    "static/js/main.26433ed5.js"
+    "static/js/main.5b7b2dff.js"
   ]
 }
